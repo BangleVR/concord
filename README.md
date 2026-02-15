@@ -72,7 +72,7 @@ Concord is a next-generation chat and voice platform that prioritizes your safet
 ## 🚀 Getting Started
 
 ### For Users
-1. **Sign Up** at [concord.app](https://concord.app) *(coming soon)*
+1. **Sign Up** at [Concord](https://) *(coming soon)*
 2. **Verify your email** - Required for account activation
 3. **Set up 2FA** - Keep your account secure
 4. **Join or create servers** - Start chatting safely!
@@ -134,30 +134,6 @@ Want to help make the internet safer? We're open to contributions!
 - Suggest features in Discussions
 - Review our code and security practices
 - Spread the word about online safety
-
----
-
-## 📞 Support & Contact
-
-- **Support Email:** support@concord.app
-- **Safety Concerns:** safety@concord.app
-- **Legal/Law Enforcement:** legal@concord.app
-- **Twitter:** [@ConcordApp](https://twitter.com/concord)
-
----
-
-## 📜 Legal
-
-- [Terms of Service](#) - Zero tolerance for abuse
-- [Privacy Policy](#) - Your data, your control
-- [Community Guidelines](#) - How we keep Concord safe
-- [Safety Center](#) - Resources and tips
-
----
-
-## ⚖️ License
-
-[Insert License Here - MIT, GPL, etc.]
 
 ---
 
